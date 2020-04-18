@@ -1,0 +1,13 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~       USE OF PACKAGE JSON FILE!    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+package. json is a plain JSON (Java Script Object Notation) text file.
+It contains all metadata information about Node JS Project or application. 
+Every Node JS Package or Module should have this file at root directory to describe its metadata in plain JSON Object format.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~       USE OF SLUGIFY    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A small tool which can be used to make more readable URLs out of names.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~       USE OF NODEMON    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+A very nice tool which helps us develop nodeJS apps. by automatically restarting the node app. whenever some files in the working directory are changed.
